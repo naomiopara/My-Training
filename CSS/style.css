@@ -1,0 +1,35 @@
+h2{
+    background-color: yellow;
+    text-align: center;
+    
+}
+
+.main-container{
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.left {
+    margin-right: 100px 
+}
+
+.middle{
+    margin-right: 90;
+    border-left: 3px solid lightgreen;
+    padding-left: 15px;
+     padding-top: ;
+}
+
+.right{
+    text-align: center;
+    border: 3px dotted lightgreen;
+    height: 150px;
+    padding: 3px;
+    margin-left: 40px;
+    
+}
+.date{
+    font-weight: bold;
+}
