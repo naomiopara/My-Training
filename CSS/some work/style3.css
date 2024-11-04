@@ -1,0 +1,48 @@
+body{
+    background-color: antiquewhite;
+    background-position: center;
+
+}
+
+.main{background-position: center;
+    display: flex;
+    
+}
+
+.second{ background-color: white;
+    width: 240px;
+    padding: 20px;
+    border: 1px solid white;
+}
+
+.img-perfume{width: 240px;
+    border: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.price-tag{
+     font-weight: bold;
+    display:flex
+
+    
+}
+
+.discount{
+    text-decoration: line-through;
+    margin-left: 10px;
+}
+
+
+.img-cart{
+    width: 15px;
+    margin-right: 10px;
+}
+
+#btn-cart{ color: antiquewhite;
+    border: none;
+    border-radius: 5px;
+    background-color: darkgreen;
+    width:200px ;
+    padding: 10px;
+}
